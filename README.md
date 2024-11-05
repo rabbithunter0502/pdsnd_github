@@ -148,9 +148,9 @@ Copy code
 Credit
 --------
 
--   **Pandas Documentation**
+-   **[Pandas Documentation](https://pandas.pydata.org/docs/)**
 
--   **NumPy Documentation**
+-   **[NumPy Documentation](https://numpy.org/doc/stable/)**
 
 -   **[Python's Official Documentation](https://docs.python.org/3/)**
 
